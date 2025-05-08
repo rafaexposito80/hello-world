@@ -1,7 +1,6 @@
 # hello-world
 
-starting on javascript
+javascript, python or swift
 
-It´ll be nice to programming a video game!
+Let´s discover the world
 
-Go on
